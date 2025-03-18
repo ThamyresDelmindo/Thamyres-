@@ -1,4 +1,6 @@
-# Welcome! I'm Thamyres!
+# Hello World! I'm Thamyres!
+
+ <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
  
 :computer: I'm Quality Assurance Student!
@@ -6,9 +8,6 @@
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything about QA.
-
- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
 
 
 ## About me

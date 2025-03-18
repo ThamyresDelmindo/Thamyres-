@@ -19,6 +19,9 @@
 [![ThamyresDelmindo GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamyresDelmindo)](https://github.com/ThamyresDelmindo/github-readme-stats)
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ThamyresDelmindo)](https://github.com/ThamyresDelmindo/github-readme-stats)
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 - Thanks for visiting.
 
 - Enjoy it!! o/

@@ -2,7 +2,7 @@
 
  
 
-## I'm (Thamyres Delmindo)!
+## I'm Thamy!
 
  
 

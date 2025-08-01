@@ -49,7 +49,7 @@ Bem-vindo(a) ao meu espaço por aqui! Sou apaixonada por tecnologia, qualidade d
 
 🎨 Miro ▓▓▓▓▓▓▓▓░░ 80%
 
-### Projetos em destaque  
+## Projetos em destaque  
 
 🧪 Teste Calculadora (teste manual)
 

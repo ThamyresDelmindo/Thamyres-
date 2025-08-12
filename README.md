@@ -10,52 +10,13 @@ Bem-vindo(a) ao meu espaço por aqui! Sou apaixonada por tecnologia, qualidade d
 - 🌱 Aprendendo todos os dias com bootcamps, cursos e projetos práticos  
 - 🤝 Gosto de trabalhar em equipe, compartilhar conhecimento e crescer junto!
 
-# Nível de Conhecimento
-
- ###  Atividades & Habilidades
-
-✅ Criação de Plano de Testes ▓▓▓▓▓▓▓▓░░ 80%
-
-✅ Cenários e Casos de Teste ▓▓▓▓▓▓▓▓░░ 80%
-
-🐞 Identificação de Bugs ▓▓▓▓▓▓▓▓░░ 80%
-
-### Tecnologias & Ferramentas de Teste
-
-🧬 Cypress (básico) ▓▓▓░░░░░░ 30%
-
-🧪 Postman (básico) ▓▓▓░░░░░░ 30%
-
-
-### Desenvolvimento
-
-⚙️ JavaScript (iniciante) ▓▓░░░░░░░ 20%
-
-🐘 SQL (básico) ▓▓▓░░░░░░ 30%
-
-🐍 Python ▓▓▓▓▓░░░░░ 50%
-
-🌐 HTML & CSS ▓▓▓▓▓▓░░░░ 60%
-
-🧠 Git & GitHub ▓▓▓▓▓▓▓▓░░ 70%
-
-### Organização & Gestão
-
-🗂️ Jira ▓░░░░░░░░ 20%
-
-🧩 Trello ▓▓▓▓▓▓▓░░░ 70%
-
-🧠 Notion ▓▓▓▓▓▓▓▓░░ 80%
-
-🎨 Miro ▓▓▓▓▓▓▓▓░░ 80%
-
 ## Projetos em destaque  
 
 🧪 Teste Calculadora (teste manual)
 
 🍓 Feira de Frutas (Python)
 
-🧪 Teste sistema Seu Barriga – Projeto do Bootcamp QA - Escola Atlântico Avanti (testes manuais e automação com Cypress)
+🧪 Teste Sistema Seu Barriga – Projeto do Bootcamp QA - Escola Atlântico Avanti (testes manuais e automação com Cypress)
 
 💧 Guardiões da Água – Jogo de plataforma com tema ambiental (Pygame)  
 
